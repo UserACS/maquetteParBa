@@ -1,3 +1,10 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Empêche le défilement horizontal */
+}
+
 #entete {
     background-color: white;
     border-color:  teal;
